@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "历史数据导入TXT", "历史数据导入TXT\历史数据导入TXT.csproj", "{1436AE5B-ACDC-4A80-BE63-9E13E89F65BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1436AE5B-ACDC-4A80-BE63-9E13E89F65BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1436AE5B-ACDC-4A80-BE63-9E13E89F65BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1436AE5B-ACDC-4A80-BE63-9E13E89F65BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1436AE5B-ACDC-4A80-BE63-9E13E89F65BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
